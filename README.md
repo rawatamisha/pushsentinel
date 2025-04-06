@@ -88,12 +88,6 @@ graph TD;
 
 ---
 
-## 🤝 Contributing
-
-We welcome contributions! Check our `CONTRIBUTING.md` for coding style, test conventions, and PR guidelines.
-
----
-
 ## 📄 License
 
 MIT © 2025
