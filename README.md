@@ -10,6 +10,19 @@ Open-source maintainers and small dev teams often struggle with a flood of incon
 
 ---
 
+## Demo UI
+
+![image](https://github.com/user-attachments/assets/127c7586-cf3c-425d-8d98-56b23fecce3f)
+![image](https://github.com/user-attachments/assets/8fa8e1c9-872f-4cb7-89d8-b94657b7084a)
+![image](https://github.com/user-attachments/assets/e4a3ca88-53d6-4a77-8e50-6d9c25e036a9)
+![image](https://github.com/user-attachments/assets/7bd86c77-3a91-45fe-8f15-54efc3be1e7e)
+![image](https://github.com/user-attachments/assets/ef951e34-77d1-420a-8029-5ed13e8a2792)
+
+
+visit : [Landing Page](https://passionate-seat-044305.framer.app/)
+
+---
+
 ## 🚀 Features
 
 - 🔍 Scans entire codebase and builds a vector-based memory
